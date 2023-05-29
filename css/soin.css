@@ -34,37 +34,6 @@ hr {
     margin-bottom: 50px;
 }
 
-.img {
-    width: 500px;
-    height: 300px;
-    margin-top: 25px;
-    margin-left: 100px;
-    border-radius: 10%;
-    box-shadow: 0 0 9px rgba(3, 2, 0, 0.534);
-}
-
-.cabinet-dinfirmier {
-    text-align: center;
-}
-
-.cabinet-dinfirmier p {
-    margin-top: 30px;
-}
-
-.secteur-dactivité {
-    text-align: center;
-}
-
-.secteur-dactivité p {
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-
-iframe {
-    border-radius: 5%;
-    box-shadow: 0 0 9px rgba(3, 2, 0, 0.534);
-}
-
 .coordonnées {
     background-color: rgb(34, 129, 150);
     margin-left: 850px;
